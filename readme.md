@@ -1,73 +1,93 @@
-<!-- Banner -->
-![Header](https://i.imgur.com/CyLZQ1h.png)
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00ADEF">Shakithiyan K V</span></h1>
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shak22">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://leetcode.com/u/Shak22">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
+  <a href="https://github.com/Shock-22">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shock-22.Shock-22&"  />
+</div>
+
+---
+
+<h1 align="center">Hey there 👋, I'm Shakithiyan K V</h1>
 <h3 align="center">💻 AI/ML Enthusiast | 🚀 Hackathon Winner | 📡 IoT Innovator</h3>
 
 ---
 
-## 🏆 Achievements  
-🏅 **Winner** – Smart India Hackathon 2024 *(₹1 Lakh)*  
-🥈 **Runner-up** – Hackfest 2024 *(₹1.5 Lakhs)*  
-📜 **NPTEL Cloud Computing** – Elite Gold (90%)  
+<h3 align="left">👨‍💻 About Me</h3>
 
----
-
-## 🚀 Tech Stack  
-
-💻 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-🧠 **AI/ML & Data Science:**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-02569B?style=for-the-badge&logo=opencv&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=spacy&logoColor=white)  
-
-🛠 **Tools & Tech:**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-6BA539?style=for-the-badge)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)  
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FC6D26?style=for-the-badge&logo=autodesk&logoColor=white)  
-
----
-
-## 📂 Featured Projects  
-
-### 🔹 [Revive – Communication System for Disaster Relief Operations](#)  
-📡 Communication network for disaster zones without power or internet  
-🛠 **Tech:** Python, Selenium, BeautifulSoup, LoRa Mesh Network, Fusion 360  
-
-### 🔹 [InsightCart – Intelligent Product Insight System](#)  
-🛒 AI-powered e-commerce insights with fake review detection & sentiment analysis  
-🛠 **Tech:** Python, DistilBERT, Naive Bayes, Streamlit  
-
-### 🔹 [CineMatch – Personalized Movie Recommender](#)  
-🎬 Content-based movie recommendation using KNN & cosine similarity  
-🛠 **Tech:** Python, Scikit-learn, Pandas, Streamlit  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shock-22&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shock-22&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+<p align="left">
+I'm a <b>pre-final year B.Tech AI & ML student</b> at Rajalakshmi Engineering College, passionate about building AI-driven, IoT-powered solutions that solve real-world challenges.<br><br>
+- 🏆 Winner – Smart India Hackathon 2024 (₹1 Lakh)<br>
+- 🥈 Runner-up – HackFest 2024 (₹1.5 Lakhs)<br>
+- 📚 Currently diving deeper into Machine Learning, NLP, and IoT Systems<br>
+- ⚡ Fun fact: I love turning ideas into projects that work <i>even without the internet</i> 🚀
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shak22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shock-22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Shak22"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+</div>
 
 ---
 
-💬 *"Turning ideas into AI-powered reality, one project at a time."*  
+<h3 align="left">🔥 My GitHub Stats</h3>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shock-22&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shock-22&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+</div>
+
+---
+
+<h3 align="left">📂 Featured Projects</h3>
+
+- **🔹 Revive – Communication System for Disaster Relief**
+  - Communication network for disaster zones without power or internet  
+  - *Tech:* Python, Selenium, LoRa Mesh Network, Fusion 360
+
+- **🔹 InsightCart – Intelligent Product Insight System**
+  - AI-powered e-commerce insights with fake review detection & sentiment analysis  
+  - *Tech:* Python, DistilBERT, Naive Bayes, Streamlit
+
+- **🔹 CineMatch – Personalized Movie Recommender**
+  - Content-based movie recommendation using KNN & cosine similarity  
+  - *Tech:* Python, Scikit-learn, Pandas, Streamlit
+
+---
+
+<div align="center">
+  💬 *"Turning ideas into AI-powered reality, one project at a time."*
+</div>
