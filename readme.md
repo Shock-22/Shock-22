@@ -25,18 +25,14 @@
 ---
 
 <h1 align="center">Hey there 👋, I'm Shakithiyan K V</h1>
-<h3 align="center">💻 AI/ML Enthusiast | 🚀 Hackathon Winner | 📡 IoT Innovator</h3>
+
 
 ---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm a <b>pre-final year B.Tech AI & ML student</b> at Rajalakshmi Engineering College, passionate about building AI-driven, IoT-powered solutions that solve real-world challenges.<br><br>
-- 🏆 Winner – Smart India Hackathon 2024 (₹1 Lakh)<br>
-- 🥈 Runner-up – HackFest 2024 (₹1.5 Lakhs)<br>
-- 📚 Currently diving deeper into Machine Learning, NLP, and IoT Systems<br>
-- ⚡ Fun fact: I love turning ideas into projects that work <i>even without the internet</i> 🚀
+I'm a <b>final year B.Tech AI & ML student</b> at Rajalakshmi Engineering College, passionate about building AI-driven, IoT-powered solutions that solve real-world challenges.<br><br>
 </p>
 
 ---
@@ -69,22 +65,6 @@ I'm a <b>pre-final year B.Tech AI & ML student</b> at Rajalakshmi Engineering Co
   <img src="https://streak-stats.demolab.com?user=Shock-22&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Shock-22&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
 </div>
-
----
-
-<h3 align="left">📂 Featured Projects</h3>
-
-- **🔹 Revive – Communication System for Disaster Relief**
-  - Communication network for disaster zones without power or internet  
-  - *Tech:* Python, Selenium, LoRa Mesh Network, Fusion 360
-
-- **🔹 InsightCart – Intelligent Product Insight System**
-  - AI-powered e-commerce insights with fake review detection & sentiment analysis  
-  - *Tech:* Python, DistilBERT, Naive Bayes, Streamlit
-
-- **🔹 CineMatch – Personalized Movie Recommender**
-  - Content-based movie recommendation using KNN & cosine similarity  
-  - *Tech:* Python, Scikit-learn, Pandas, Streamlit
 
 ---
 
